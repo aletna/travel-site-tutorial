@@ -844,14 +844,14 @@ a {
 
 @media (min-width: 1010px) {
 
-  .row--equal-height-atlarge {
+  .row--equal-height-at-large {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
   }
 }
 
-.row--equal-height-atlarge > div {
+.row--equal-height-at-large > div {
   float: none;
   display: -webkit-box;
   display: -ms-flexbox;
